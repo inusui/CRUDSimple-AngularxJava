@@ -1,11 +1,5 @@
 # Componentes
 
-### Forma manual
-
-
-
-### Forma Automatica
-
 Se crean con&#x20;
 
 ![](<.gitbook/assets/imagen (1).png>)
