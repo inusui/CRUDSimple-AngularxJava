@@ -14,6 +14,14 @@ y el servicio
 
 ![](.gitbook/assets/imagen.png)
 
+### Crear Componente sin Test and Css
+
+Para crear el componente sin CSS se agrega la bandera. `--inline-style`
+
+Para crear el componente sin teste se agrega la bandera. `--skip-tests`
+
+
+
 
 
 en `ap.components.ts` se debe agregar&#x20;
