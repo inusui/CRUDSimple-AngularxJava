@@ -2,4 +2,4 @@
 
 ## In HTML
 
-\<a \[routerLink] = "\['/ordenar']" class="nav-link"> Home
+\<a \[routerLink] = "/ordenar" class="nav-link"> Home

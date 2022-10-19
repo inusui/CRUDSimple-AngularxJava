@@ -7,7 +7,5 @@
 * [Módulos](modulos/README.md)
   * [$event](modulos/usdevent.md)
 * [Servicios](servicios.md)
-* [Servicios](servicios-1.md)
 * [Eventos](eventos.md)
-* [Formularios Reactivos](formularios-reactivos.md)
 * [Router Link](router-link.md)
