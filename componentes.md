@@ -16,11 +16,17 @@ y el servicio
 
 ### Crear Componente sin Test and Css
 
-Para crear el componente sin CSS se agrega la bandera. `--inline-style`
+Para crear el componente sin CSS se agrega la bandera.
 
-Para crear el componente sin teste se agrega la bandera. `--skip-tests`
+```
+ --inline-style
+```
 
+Para crear el componente sin teste se agrega la bandera.
 
+```
+ --skip-tests
+```
 
 
 
