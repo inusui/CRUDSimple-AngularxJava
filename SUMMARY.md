@@ -10,3 +10,4 @@
 * [Eventos](eventos.md)
 * [Router Link](router-link.md)
 * [Bootstrap](bootstrap.md)
+* [Pipes](pipes.md)
