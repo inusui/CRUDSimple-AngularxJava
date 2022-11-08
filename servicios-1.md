@@ -4,7 +4,7 @@
 
 Son componentes que se inyectan en otros.&#x20;
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 
 
@@ -20,5 +20,5 @@ constructor( private DbzService: DbzService){} //inyeccion de dependencias.
 
 se debe importar el modulo de servicios para utilizarlo.&#x20;
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
