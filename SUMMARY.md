@@ -12,3 +12,4 @@
 * [Bootstrap](bootstrap.md)
 * [Pipes](pipes/README.md)
   * [Decimal Pipe](pipes/decimal-pipe.md)
+  * [i18nSelect](pipes/i18nselect.md)
