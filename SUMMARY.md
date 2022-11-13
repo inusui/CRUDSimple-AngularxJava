@@ -2,9 +2,11 @@
 
 * [CrudLasMascotas](README.md)
 * [Install | Commands](install-or-commands.md)
-* [Componentes](componentes.md)
+* [Componentes](componentes/README.md)
+  * [Ng OnInit](componentes/ng-oninit.md)
 * [ng build](ng-build.md)
 * [Módulos](modulos/README.md)
+  * [Page 1](modulos/page-1.md)
   * [$event](modulos/usdevent.md)
 * [Servicios](servicios-1.md)
 * [Eventos](eventos.md)

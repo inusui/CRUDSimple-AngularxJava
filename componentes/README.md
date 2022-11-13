@@ -8,11 +8,11 @@
 
 Se crean con&#x20;
 
-![](<.gitbook/assets/imagen (1).png>)
+![](<../.gitbook/assets/imagen (1).png>)
 
 y el servicio
 
-![](.gitbook/assets/imagen.png)
+![](../.gitbook/assets/imagen.png)
 
 ### Crear Componente sin Test and Css
 
