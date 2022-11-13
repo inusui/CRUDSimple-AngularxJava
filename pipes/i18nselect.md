@@ -10,7 +10,7 @@ description: Segun lo que reciba cambia lo que muestra.
 
 Trata de un objeto, al cual se envia la key del objeto, la cual va a retornar su valor.
 
-```
+```typescript
  invitacionObj = {
     'F':'invitarla',
     'M':'invitarlo'
