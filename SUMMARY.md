@@ -13,5 +13,6 @@
 * [Router Link](router-link.md)
 * [Bootstrap](bootstrap.md)
 * [Pipes](pipes/README.md)
+  * [Proyecto PipesApp](pipes/proyecto-pipesapp.md)
   * [Decimal Pipe](pipes/decimal-pipe.md)
   * [i18nSelect](pipes/i18nselect.md)
