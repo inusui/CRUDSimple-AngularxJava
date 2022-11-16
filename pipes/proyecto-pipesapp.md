@@ -4,6 +4,8 @@
 
 {% embed url="https://www.primefaces.org/primeng/setup" %}
 
+{% embed url="https://www.primefaces.org/primeflex/setup" %}
+
 #### install
 
 ```
