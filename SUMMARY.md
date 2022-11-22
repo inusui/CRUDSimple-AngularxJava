@@ -6,7 +6,7 @@
   * [Ng OnInit](componentes/ng-oninit.md)
 * [ng build](ng-build.md)
 * [Módulos](modulos/README.md)
-  * [Page 1](modulos/page-1.md)
+  * [Replicar lo que se escribe en un output.](modulos/replicar-lo-que-se-escribe-en-un-output..md)
   * [$event](modulos/usdevent.md)
 * [Servicios](servicios-1.md)
 * [Eventos](eventos.md)
