@@ -2,7 +2,7 @@
 
 * [CrudLasMascotas](README.md)
 * [Install | Commands](install-or-commands.md)
-* [Componentes](componentes/README.md)
+* [Componentes](componentes.md)
   * [Ng OnInit](componentes/ng-oninit.md)
 * [ng build](ng-build.md)
 * [Módulos](modulos/README.md)
@@ -12,6 +12,7 @@
 * [Eventos](eventos.md)
 * [Router Link](router-link.md)
 * [Bootstrap](bootstrap.md)
+* [Pipes personalizados](pipes-personalizados.md)
 * [Pipes](pipes/README.md)
   * [Proyecto PipesApp](pipes/proyecto-pipesapp.md)
   * [Decimal Pipe](pipes/decimal-pipe.md)
