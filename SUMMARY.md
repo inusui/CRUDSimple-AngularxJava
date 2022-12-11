@@ -17,3 +17,4 @@
   * [Proyecto PipesApp](pipes/proyecto-pipesapp.md)
   * [Decimal Pipe](pipes/decimal-pipe.md)
   * [i18nSelect](pipes/i18nselect.md)
+* [Lazyload](lazyload.md)
