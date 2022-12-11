@@ -20,5 +20,5 @@ constructor( private DbzService: DbzService){} //inyeccion de dependencias.
 
 se debe importar el modulo de servicios para utilizarlo.&#x20;
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<.gitbook/assets/image (2) (1) (1).png>)
 

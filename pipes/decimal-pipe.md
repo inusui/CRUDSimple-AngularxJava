@@ -12,4 +12,4 @@ Todos los numeros enteros con 2 decimales si o si. de tener menos de 1 decimal l
 
 
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
