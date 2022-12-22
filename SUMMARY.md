@@ -19,5 +19,3 @@
   * [Decimal Pipe](pipes/decimal-pipe.md)
   * [i18nSelect](pipes/i18nselect.md)
 * [Lazyload](lazyload.md)
-* [RXJS](rxjs/README.md)
-  * [Switchmap](rxjs/switchmap.md)
