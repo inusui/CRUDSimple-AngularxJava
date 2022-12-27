@@ -22,3 +22,4 @@
 * [Lazyload](lazyload.md)
 * [RXJS](rxjs/README.md)
   * [Switchmap](rxjs/switchmap.md)
+* [PopUp confirmar](popup-confirmar.md)
