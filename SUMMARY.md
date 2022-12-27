@@ -12,6 +12,7 @@
 * [Eventos](eventos.md)
 * [Router Link](router-link/README.md)
   * [Enviar argumentos RouterLink](router-link/enviar-argumentos-routerlink.md)
+  * [Leer Ruta](router-link/leer-ruta.md)
 * [Bootstrap](bootstrap.md)
 * [Pipes personalizados](pipes-personalizados.md)
 * [Pipes](pipes/README.md)
@@ -19,3 +20,5 @@
   * [Decimal Pipe](pipes/decimal-pipe.md)
   * [i18nSelect](pipes/i18nselect.md)
 * [Lazyload](lazyload.md)
+* [RXJS](rxjs/README.md)
+  * [Switchmap](rxjs/switchmap.md)

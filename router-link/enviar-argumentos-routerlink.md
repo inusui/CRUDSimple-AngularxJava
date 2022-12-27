@@ -23,27 +23,20 @@ Check que la ruta sea la correcta, de otro modo coloca una ruta predeterminada d
 </strong><strong>.
 </strong><strong>.
 </strong><strong>*/
-</strong><strong>constructor( private activatedRoute: ActivetedRoute ){}
+</strong><strong>constructor( private route: ActivetedRoute ){}
 </strong><strong>/*
 </strong><strong>.
 </strong><strong>.
 </strong><strong>.
 </strong><strong>*/
 </strong><strong>ngOninit() {
-</strong><strong>
-</strong>this.activatedRoute.params
-          .subscribe( {{id}} => console.log ); 
-<strong>}
+</strong><strong>    console.log(  this.route.snapshot.paramMap.get('id')! );
+</strong><strong>    // Esto se puede asignar a alguna variable. 
+</strong><strong>}
 </strong></code></pre>
 
 
 {% endtab %}
 {% endtabs %}
 
-Otra forma de asignar el Routerlink
-
-```typescript
-// ArchivoTs
-this.sendHeroe = this.activatedRoute.snapshot.paramMap.get('id')!;
-```
-
+\
