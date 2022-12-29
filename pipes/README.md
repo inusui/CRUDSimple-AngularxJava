@@ -1,7 +1,7 @@
 # Pipes
 
-{% content-ref url="proyecto-pipesapp.md" %}
-[proyecto-pipesapp.md](proyecto-pipesapp.md)
+{% content-ref url="../proyecto-pipesapp.md" %}
+[proyecto-pipesapp.md](../proyecto-pipesapp.md)
 {% endcontent-ref %}
 
 {% content-ref url="decimal-pipe.md" %}
@@ -12,6 +12,6 @@
 [i18nselect.md](i18nselect.md)
 {% endcontent-ref %}
 
-{% content-ref url="pipes-personalizados.md" %}
-[pipes-personalizados.md](pipes-personalizados.md)
+{% content-ref url="../pipes-personalizados.md" %}
+[pipes-personalizados.md](../pipes-personalizados.md)
 {% endcontent-ref %}

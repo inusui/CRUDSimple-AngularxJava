@@ -11,3 +11,18 @@
 ```
 ng build --prod
 ```
+
+
+
+### Generar proyecto
+
+```
+ng n <proyect-name>
+```
+
+
+
+#### Generar enums
+
+ng g enums \<ruta y nombre o lo que sea>
+
