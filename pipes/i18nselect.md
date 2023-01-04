@@ -25,5 +25,5 @@ Trata de un objeto, al cual se envia la key del objeto, la cual va a retornar su
 
 Output
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>invitarla es el value del objeto</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>invitarla es el value del objeto</p></figcaption></figure>
 
