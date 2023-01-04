@@ -1,7 +1,7 @@
 # Pipes
 
-{% content-ref url="../proyecto-pipesapp.md" %}
-[proyecto-pipesapp.md](../proyecto-pipesapp.md)
+{% content-ref url="proyecto-pipesapp.md" %}
+[proyecto-pipesapp.md](proyecto-pipesapp.md)
 {% endcontent-ref %}
 
 {% content-ref url="decimal-pipe.md" %}

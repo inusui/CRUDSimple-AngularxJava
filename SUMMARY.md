@@ -1,8 +1,8 @@
 # Table of contents
 
 * [CrudLasMascotas](README.md)
-* [Install | Commands](install-or-commands/README.md)
-  * [ng build](install-or-commands/ng-build.md)
+* [Install | Commands](install-or-commands.md)
+  * [ng build](ng-build.md)
 * [Componentes](componentes.md)
   * [Ng OnInit](componentes/ng-oninit.md)
 * [Módulos](modulos/README.md)
@@ -14,7 +14,7 @@
   * [Enviar argumentos RouterLink](router-link/enviar-argumentos-routerlink.md)
   * [Leer Ruta](router-link/leer-ruta.md)
 * [Bootstrap](bootstrap.md)
-* [Proyecto PipesApp](proyecto-pipesapp.md)
+* [Proyecto PipesApp](pipes/proyecto-pipesapp.md)
 * [Pipes](pipes/README.md)
   * [Decimal Pipe](pipes/decimal-pipe.md)
   * [i18nSelect](pipes/i18nselect.md)
@@ -24,3 +24,4 @@
   * [Switchmap](rxjs/switchmap.md)
 * [Angular Material](angular-material.md)
 * [PopUp confirmar](popup-confirmar.md)
+* [Guards](guards.md)
