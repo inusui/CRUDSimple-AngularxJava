@@ -4,6 +4,8 @@ description: Servicio que implementa reglas de validacion en las rutas.
 
 # Guards
 
+{% embed url="https://github.com/Klerith/heroesApp-Angular/releases/tag/v0.15.0" %}
+
 ### Generacion
 
 ```
