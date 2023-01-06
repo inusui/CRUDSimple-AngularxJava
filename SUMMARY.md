@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CrudLasMascotas](README.md)
+* [ts](ts.md)
 * [Install | Commands](install-or-commands.md)
   * [ng build](ng-build.md)
 * [Componentes](componentes.md)
